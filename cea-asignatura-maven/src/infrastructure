@@ -1,0 +1,8 @@
+src/
+└── infrastructure/
+    ├── web/
+    │   └── AsignaturaController.java
+    └── persistence/
+        ├── AsignaturaJpaRepository.java
+        └── mapper/
+            └── AsignaturaMapper.java
